@@ -10,18 +10,18 @@ Script Python simple permettant de scanner les ports réseau TCP sur une adresse
    ```
 
 2. Entrez l'adresse IP cible lorsqu'elle vous est demandée :
-   ```text
+   ```
    Entrer l'adresse IP de la cible : 192.168.1.1
    ```
 
 3. **Exemple de sortie :**
-   ```text
+   ```
    Entrer l'adresse IP de la cible : 192.168.1.1
    Le port 80 est ouvert
    Le port 443 est ouvert
 
    Les ports ouverts sont : [80, 443]
-   Durée du programme : 1.45 secondes
+   Durée du programme :  68.30760526657104 secondes
    ```
 
 ## Fonctionnement technique
